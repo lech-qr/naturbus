@@ -212,7 +212,7 @@ if (geocoder) {
     </script>
 
 <!-- GOOGLE MAP API -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDAHDFaUVFTKqrrUtBXubJbrUxKKq-t8Fw&amp;callback=initMap" async defer></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=-t8Fw&amp;callback=initMap" async defer></script>
 	';
 
 echo $out;
