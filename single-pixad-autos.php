@@ -429,7 +429,7 @@ get_header();
 							</script>
 
 							<!-- GOOGLE MAP API -->
-							<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAChcJ6xYHmHRRTRMvt9GLCXeQG1qasV4&callback=initMap" async defer></script>
+							<script src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap" async defer></script>
 							<?php endif; ?>
 
 							</div>
