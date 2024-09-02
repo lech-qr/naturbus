@@ -14,7 +14,7 @@
 
 <?php
 $rozklad_1 = cptr_populate(get_the_ID());
-$rozklad_2 = cptr_populate(8645);
+$rozklad_2 = cptr_populate(9139);
 
 ?>
 
